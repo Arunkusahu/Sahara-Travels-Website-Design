@@ -22,7 +22,8 @@ Check it out and let me know your thoughts! Your feedback is invaluable... 🚀
 
 ## Demo
 
-You can view a live demo of the webpage : [here](#). *(Add the link to your deployed webpage or demo here.)*
+You can view a live demo of the webpage :
+https://arunkusahu.github.io/Afame-Technologies_Sahara-Travels-Website/index.html
 
 ## About developers
 
